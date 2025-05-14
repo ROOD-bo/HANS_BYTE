@@ -14,7 +14,7 @@ module.exports = {
   SUDO: process.env.SUDO || "237696900612", // Add your admin/sudo number here
   OWNER_NUM: process.env.OWNER_NUM || "237680260772", // Add the owner's number here
   OWNER_NAME: process.env.OWNER_NAME || "HANS TECH", // Add the owner's name here
-  OWNER_EMAIL: process.env.OWNER_EMAIL || "your@email.com", // Add your email address here
+  OWNER_EMAIL: process.env.OWNER_EMAIL || "damianmarques278@gmail.com", // Add your email address here
   OWNER_LOCATION: process.env.OWNER_LOCATION || "Africa/Douala", // Add your location here
   OWNER_GITHUB: process.env.OWNER_GITHUB || "https://github.com/HansTech1", // Add your GitHub profile URL here
 
